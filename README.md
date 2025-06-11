@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Ingeniero en Informática<br><br>🎥 Intento de streamer pequeño, ya sea stream de conocimiento de programación o de videojuegos <br><br>📝 Roles en el ámbito: Lider,Desarrollador, Creativo.... en un futuro quien sabe que cosa mas<br><br>📖 Contacto: dfariasopazo@gmail.com</p>
+<p align="left">🎓 Ingeniero en Informática<br> <br><br>📝 Roles en el ámbito: Lider,Desarrollador, Creativo.... en un futuro quien sabe que cosa mas<br><br>📖 Contacto: dfariasopazo@gmail.com</p>
 
 ###
 
